@@ -11,6 +11,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=giovanni-ni&layout=compact)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+![Visitor Count](https://komarev.com/ghpvc/?username=giovanni-ni&color=blue)
 
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Always+learning;)
